@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project, titled "Disease Data Analysis and Visualization," focuses on harnessing the power of data to derive actionable insights in the healthcare sector. Our team aims to identify patterns and insights within disease data to improve decision-making processes in healthcare businesses. Using a robust SQL database system, ETL processes, and visual analytics through PowerBI, this project exemplifies the integration of data engineering and business intelligence to address real-world problems.
+This project, titled "Disease Data Analysis and Visualization," focuses on harnessing the power of data to derive actionable insights in the healthcare sector. Our team aims to identify patterns and insights within disease data to improve decision-making processes in healthcare businesses. Using a robust PostgreSQL database system, ETL processes, and visual analytics through PowerBI, this project exemplifies the integration of data engineering and business intelligence to address real-world problems.
 
 ## Team Members
 
